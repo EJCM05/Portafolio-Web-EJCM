@@ -1,0 +1,71 @@
+{
+  "personal": {
+    "name": "EBER J. COLMENARES M.",
+    "role": "Full Stack Developer | Backend Especialista",
+    "email": "ebercolmenares_11@hotmail.com",
+    "phone": "+58 426 0569643",
+    "location": "Táchira, Venezuela (Abierto a posiciones Remotas)",
+    "github": "https://github.com/EJCM05",
+    "linkedin": "#", 
+    "summary": "Desarrollador enfocado en la creación de herramientas modulares y lógica de backend estratégica, evitando la replicación de sistemas genéricos. Especializado en APIs, modelado de datos y eficiencia para entregar valor escalable."
+  },
+  "experience": [
+    {
+      "role": "Desarrollador Full Stack (Semi-Senior)",
+      "company": "Cuerpo de Bomberos, San Cristóbal",
+      "period": "Actualidad",
+      "description": "Desarrollo de un Sistema de Gestión Bomberil y App de Emergencias. Centralización de 4 departamentos operativos (Personal, Mecánica, Bienes, Insumos) en un único sistema monolítico modular, reduciendo tiempos de reporte administrativo.."
+    }
+  ],
+  "projects": [
+    {
+      "name": "App Móvil de Gestión de Emergencias",
+      "tech": "Ionic (Híbrida) + Backend Robusto",
+      "desc": "Solución móvil para reporte y gestión de emergencias con geolocalización precisa y notificaciones en tiempo real.",
+      "link": "#"
+    },
+    {
+      "name": "Sistema de Gestión de Árbitros",
+      "tech": "Django + SQLite + DaisyUI",
+      "desc": "Monolito modular para asociación de árbitros. Servidor local colaborativo enfocado en la gestión administrativa.",
+      "link": "#"
+    },
+    {
+      "name": "Panel de Ventas SimCards",
+      "tech": "Django (CBVs)",
+      "desc": "Panel de control para venta y gestión de SimCards. Incluye visualización de gráficos y exportación de datos.",
+      "link": "#"
+    },
+    {
+      "name": "Gestión de Rifas y Tickets",
+      "tech": "Django + AWS S3",
+      "desc": "Aplicación para administrar rifas, control de clientes, comprobantes de pago y almacenamiento en la nube.",
+      "link": "#"
+    },
+    {
+      "name": "App Educativa Tkinter",
+      "tech": "Python + SQLite (MVC)",
+      "desc": "Aplicación de escritorio educativa desarrollada bajo la arquitectura Modelo-Vista-Controlador.",
+      "link": "#"
+    }
+  ],
+  "skills": [
+    "Python", "JavaScript", "C++", "Bash",
+    "Django", "FastAPI", "SvelteKit", "TailwindCSS", "Bootstrap",
+    "PostgreSQL", "SQLite", "IncoDB",
+    "AWS S3", "Supabase", "Render", "Docker", "Git/GitHub", "Figma", "Trello"
+  ],
+  "education": [
+    {
+      "degree": "Ingeniería Informática",
+      "institution": "UPTAIET",
+      "period": "En Proceso (2026)"
+    },
+    {
+      "degree": "TSU en Informática",
+      "institution": "UPTAIET",
+      "period": "2022 - 2024"
+    }
+  ],
+  "languages": ["Español (Nativo)", "Inglés (Básico/Intermedio)"]
+}
