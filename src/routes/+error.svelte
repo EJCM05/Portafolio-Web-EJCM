@@ -27,10 +27,3 @@
     </a>
 
 </div>
-
-<style>
-    /* Un pequeño ajuste para que el número grande no se vea tan agresivo */
-    .opacity-25 {
-        opacity: 0.25;
-    }
-</style>
